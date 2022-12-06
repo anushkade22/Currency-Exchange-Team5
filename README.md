@@ -2,7 +2,8 @@
 
 Frontend files in "main" branch
 Backend files in "master" branch
-
+Technologies used for Frontend : Reactjs
+Technologies used for Backend : Django
 
 Exchange rate is the price of one currency in terms of another currency. A currency appreciates if it takes more of another currency to buy it and depreciates if it takes less of another currency to buy it.
 
