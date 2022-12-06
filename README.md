@@ -27,7 +27,7 @@ This page was implemented to allow the user to login and use the functionality o
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/87537673/205914542-7c9774cc-2e70-465a-a5e4-5aa335aeb947.png)
 ![Screenshot (19)](https://user-images.githubusercontent.com/87537673/205916319-2df002ab-b96e-4284-978c-47e6f03bac47.png)
-
+![Screenshot (22)](https://user-images.githubusercontent.com/87537673/205916501-f30eeb01-a956-4f1a-baf9-745892589f34.png)
 ![WhatsApp Image 2022-12-06 at 17 32 39](https://user-images.githubusercontent.com/87537673/205915897-956efc85-8ab7-4d23-b32b-9c22e195de33.jpeg)
 
 
