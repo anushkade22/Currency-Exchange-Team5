@@ -20,3 +20,4 @@ The View charts tab is implemented to showcase the graphs that are to be plotted
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/87537673/205914542-7c9774cc-2e70-465a-a5e4-5aa335aeb947.png)
 
+![Screenshot (19)](https://user-images.githubusercontent.com/87537673/205914905-6c8c9c33-87e7-48fb-bf8a-001a6c9ea0d8.png)
