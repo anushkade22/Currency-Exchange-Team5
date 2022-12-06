@@ -8,4 +8,7 @@ Use USD as Base Currency where first currency will always be USD and second curr
 
 Introduction:
 We have created a web application for finding the currency exchange rates according to the given problem statement.
-The first page (home page) contains three options for the user.
+
+Home page:
+
+
