@@ -18,8 +18,12 @@ We have three functionalities in the home page Home, Currency converter and View
 The Currency converter is used to give the USD, InR and other values of currency and converting one of them into another.
 The View charts tab is implemented to showcase the graphs that are to be plotted when the user will select the required parameters.
 
-![Screenshot (17)](https://user-images.githubusercontent.com/87537673/205914542-7c9774cc-2e70-465a-a5e4-5aa335aeb947.png)
+About Us:
+The About Us page  just gives an information about our team.
 
-![Screenshot (19)](https://user-images.githubusercontent.com/87537673/205914905-6c8c9c33-87e7-48fb-bf8a-001a6c9ea0d8.png)
-![Screenshot (22)](https://user-images.githubusercontent.com/87537673/205915173-85061380-2bbb-4ebb-be82-b95650ae4610.png)
+Login:
+This page was implemented to allow the user to login and use the functionality of the user friendly website so that he/ she can find the changes in the currency on daily basis.
+
+
+![Screenshot (17)](https://user-images.githubusercontent.com/87537673/205914542-7c9774cc-2e70-465a-a5e4-5aa335aeb947.png)
 
