@@ -1,7 +1,7 @@
 # Currency-Exchange-Team5
 
-"Frontend files in main,
-Backend files in Master"
+Frontend files in "main" branch
+Backend files in "master" branch
 
 
 Exchange rate is the price of one currency in terms of another currency. A currency appreciates if it takes more of another currency to buy it and depreciates if it takes less of another currency to buy it.
@@ -13,6 +13,9 @@ Use USD as Base Currency where first currency will always be USD and second curr
 Introduction:
 We have created a web application for finding the currency exchange rates according to the given problem statement.
 
-Home page:
+Home Page:
+We have three functionalities in the home page Home, Currency converter and View chart.
+The Currency converter is used to give the USD, InR and other values of currency and converting one of them into another.
+The View charts tab is implemented to showcase the graphs that are to be plotted when the user will select the required parameters.
 
 
