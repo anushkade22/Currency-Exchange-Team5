@@ -1,7 +1,7 @@
 # Currency-Exchange-Team5
 
-Frontend files in main
-Backend files in Master
+"Frontend files in main,
+Backend files in Master"
 
 
 Exchange rate is the price of one currency in terms of another currency. A currency appreciates if it takes more of another currency to buy it and depreciates if it takes less of another currency to buy it.
