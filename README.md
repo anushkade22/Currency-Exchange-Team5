@@ -18,4 +18,5 @@ We have three functionalities in the home page Home, Currency converter and View
 The Currency converter is used to give the USD, InR and other values of currency and converting one of them into another.
 The View charts tab is implemented to showcase the graphs that are to be plotted when the user will select the required parameters.
 
+![Screenshot (17)](https://user-images.githubusercontent.com/87537673/205914542-7c9774cc-2e70-465a-a5e4-5aa335aeb947.png)
 
